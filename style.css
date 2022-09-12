@@ -1,0 +1,62 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  font-family:Arial Black;
+  font-size: 250%;
+  color: white;
+}
+h2 {
+  font-family:Arial Black;
+  font-size: 150%;
+  color: white;
+}
+p {
+  font-family: Lucida Console, Courier New;
+  font-size: 100%;
+  color: whitesmoke;
+}
+mark {
+  background-color: lime;
+}
+
+hr {
+  height: 5px;
+  background-color: white;
+  border-width: 0px;
+  width: 600px;
+  margin-left: 0;
+}
+a {
+  font-family: Lucida Console, Courier New;
+  font-size: 100%;
+  color: black;
+  background-color: lime;
+  padding: 2px;
+  text-decoration: none;
+}
+
+.tab {
+  font-family: Arial Rounded MT, Trebuchet MS;
+  font-size: 100%;
+  color: white;
+  padding: 20px;
+  text-decoration: none;
+  background-color: transparent
+}
+ul{
+  display:flex; 
+  list-style-type:none; 
+  text-align:center; 
+  background-color:#a1a1a1;
+  padding:10px;
+  width:29rem;
+  border:5px;
+  border-style:outset;
+  border-color:#787878;
+}
+nav{
+  color:white;
+  font-family:Arial Rounded MT, Trebuchet MS;
+}
